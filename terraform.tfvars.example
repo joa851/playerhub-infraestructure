@@ -1,0 +1,4 @@
+# Copia este fichero a terraform.tfvars y rellena los valores.
+project_id   = "tu-proyecto-gcp"
+# region       = "us-central1"
+# github_owner = "tu-usuario-github"
